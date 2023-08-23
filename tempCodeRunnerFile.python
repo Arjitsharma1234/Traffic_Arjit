@@ -1,0 +1,4 @@
+count = 0
+while count < 100:
+    print('Count: ',count)
+    count = count * 1 # OOPS, does not change the count valuev
